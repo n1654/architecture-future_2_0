@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
   <diagram id="mhOdVG6A7lS44WpF1dVM" name="c4_containers">
-    <mxGraphModel dx="3943" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3943" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,9 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="N1wQjHpxq3uzkZnZg8Cx-11" value="&lt;div&gt;Данные разделены по доменам:&lt;br&gt;&amp;nbsp; &amp;nbsp;- медицинский, &lt;br&gt;&amp;nbsp; &amp;nbsp;- финансовый, &lt;br&gt;&amp;nbsp; &amp;nbsp;- внутренние сервисы.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Каждый домен отвечает за свои данные.&lt;/div&gt;&lt;div&gt;&lt;br&gt;DataHub как центральный каталог.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Миграция предполагает п&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(102, 102, 102), rgb(149, 149, 149));&quot;&gt;остепенный перенос данных из старого DWH в доменные хранилища.&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=1;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="250" width="360" height="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
