@@ -2,7 +2,7 @@
 
 ## Диаграмма контейнеров в модели C4
 
- - (Исходник drawio)
+ - [Исходник drawio](./c4_containers.drawio)
 
 ![containers_diagram](./c4_containers.drawio.png)
 
